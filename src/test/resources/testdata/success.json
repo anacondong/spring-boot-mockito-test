@@ -1,0 +1,10 @@
+{
+  "status": {
+    "code": 1,
+    "header": null,
+    "description": "Success"
+  },
+  "data": {
+  "status": "I'm OK"
+  }
+}
